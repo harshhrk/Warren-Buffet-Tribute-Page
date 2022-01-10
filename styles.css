@@ -1,0 +1,41 @@
+html {
+    background-color: #F0ECE3;
+    margin: 10px 350px;
+}
+
+#container {
+    text-align: center;
+}
+
+.title {
+    font-size: 50px;
+    margin-bottom: 0;
+}
+
+.designation {
+    margin-top: 0;
+}
+
+.desc {
+    font-size: 20px;
+}
+
+.col1 {
+    width: 10%;
+}
+
+#fact {
+    font-size: 16px;
+}
+
+.quote {
+    font-size: 20px;
+}
+
+.tag {
+    color: slategray;
+}
+
+.read {
+    font-size: 24px;
+}
